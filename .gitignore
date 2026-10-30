@@ -1,0 +1,12 @@
+.DS_Store
+.build/
+.swiftpm/
+dist/
+*.xcuserstate
+*.xccheckout
+*.app/
+*.dmg
+*.pkg
+*.log
+work/
+outputs/
